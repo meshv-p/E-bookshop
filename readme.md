@@ -26,10 +26,10 @@ The Universal e-Bookstore project aims to create a versatile and accessible digi
 
 ## Screenshots
 
-![App Screenshot](screenshots\pic2.png)
+![App Screenshot](screenshots/pic2.png)
 
-![App Screenshot](screenshots\pic1.png)
+![App Screenshot](screenshots/pic1.png)
 
-![App Screenshot](screenshots\pic3.png)
+![App Screenshot](screenshots/pic3.png)
 
-![App Screenshot](screenshots\pic4.png)
+![App Screenshot](screenshots/pic4.png)
